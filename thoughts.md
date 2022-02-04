@@ -8,3 +8,5 @@ Shoutout to Stirling for sharing the helpful Bash/Zsh commands list to Slack
 Shoutout to Amanda, who clearly has good taste, for recognizing the David Bowie print behind me during an exercise
 
 Adding 1 more thing
+
+Adding 1 more thing again
